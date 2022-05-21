@@ -1,0 +1,1 @@
+# Parallel-Programming-Lab5_OpenMP

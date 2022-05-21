@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1652690041 source:d:\my projects\gcc test proj\lesson4\general\openmp\main.cpp
+	<iostream>
+	<sys/time.h>
+	<stdlib.h>
+	<omp.h>
+
